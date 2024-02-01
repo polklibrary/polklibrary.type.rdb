@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<object name="portal_catalog" meta_type="Plone Catalog Tool">
+	
+	<column value="resources" />
+	<column value="activated" />
+    <column value="reference"/>
+    <column value="disciplines"/>
+        
+	
+</object>
